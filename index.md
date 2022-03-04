@@ -4,32 +4,25 @@
 
 ### 소속
 
-이화여자대학교 엘텍공과대학/휴먼기계바이오공학부
+이화여자대학교 엘텍공과대학 / 휴먼기계바이오공학부
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# '휴먼기계바이오공학부'란?
 
-- Bulleted
-- List
+휴먼기계바이오공학부는 의학, 공학, 정보학, 생물학 등 다양한 분야와의 융합을 기반으로 첨단 바이오 헬스 산업분야에 패러다임을 선두하는 학부입니다.
 
-1. Numbered
-2. List
+## '휴먼기계바이오공학부'에 오게 된 이유
 
-**Bold** and _Italic_ and `Code` text
+처음 휴먼기계공학부라는 이름을 접했을 때 이 과가 무엇을 하는지 쉽게 와닿지는 않았습니다. 다만 대략적으로 인간에게 도움이 되는 기기(ex: 인공지능, 첨단 의료기기 등)를 연구하고 개발할 수 있다는 것이 제게 큰 매력으로 다가왔고, 다가오는 제4차 산업혁명 시대에 기계와 인간이 공존하기 위한 방법을 모색할 수 있을 것 같아 이 학부를 오게 되었습니다.
 
-[Link](url) and ![Image](src)
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### '스타트업을 위한 코딩 기초'를 듣게 된 이유
 
-### Jekyll Themes
+요즘 가장 주목받는 분야 중 하나인 코딩에 대해 더 알아가며 배우고 싶었고, 스타트업에 있어서 코딩을 어떻게 활용할 수 있을지 배우고자 이 수업을 듣게 되었습니다.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taromi02/taromi02.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 수업을 시작하며 나의 한 마디
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+코딩은 고등학교 때 방과후 수업과 정보 수업으로 잠깐이나마 건드려본 게 전부이지만, 처음인만큼 더 열정을 가지고 열심히 배우도록 노력하겠습니다! 모쪼록 잘 부탁드립니다.
